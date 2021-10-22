@@ -1,0 +1,39 @@
+.Title{
+    font-size:1cm ;
+    border-style: solid;
+    border-radius: 10cm;
+}
+body{
+    background-color: #5dbb63;
+}
+.header{
+    display:flex;
+    border-style: solid;
+    flex-wrap: wrap;
+    background-color: #311432;
+    justify-content: space-evenly;
+    margin:50px;
+    border-radius: 10cm;
+    padding:40px
+}
+.img{
+    border-radius:2cm;
+}
+.allgames{
+    display:flex;
+    border-style: solid;
+    flex-wrap: wrap;
+    background-color: #311432;
+    justify-content: space-evenly;
+    margin:50px;
+    border-radius: 3cm; 
+    padding:40px ;
+    flex-basis: 100%;  
+}
+.eachgame{
+    flex-basis: 50%;
+}
+.p{
+    color:#E39ff6;
+margin-left: 80px;
+}
